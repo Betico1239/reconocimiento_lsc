@@ -40,7 +40,6 @@ SignRecognitionLSC
 - Scikit-learn
 - OpenCV
 - MediaPipe
-- Jupyter Notebook
 
 ---
 
@@ -60,11 +59,8 @@ SignRecognitionLSC
    cd lsc-abecedario
    ```
 
-2. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. Ejecuta los scripts de entrenamiento o inferencia ubicados en la carpeta `src/`.
+
+3. Ejecuta los scripts de entrenamiento o inferencia ubicados en la carpeta principal .py`.
 
 ---
