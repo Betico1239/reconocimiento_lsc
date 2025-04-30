@@ -1,0 +1,39 @@
+# Ignorar carpetas de datasets
+datasetEstaticas/
+datasetVideos/
+models/
+models_dinamics/
+no_importar/
+
+# Archivos pesados
+*.mp4
+*.avi
+*.mov
+*.zip
+*.tar.gz
+*.h5
+*.tflite
+*.pb
+*.jpg
+
+
+# Archivos temporales y compilados
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Modelos entrenados
+models/
+checkpoints/
+saved_models/
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos de Jupyter
+*.checkpoint.ipynb
+
+# Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
